@@ -1,0 +1,12 @@
+/data/dublin/geometry/*
+  Cache-Control: public, max-age=31556952, immutable
+/data/amsterdam/geometry/*
+  Cache-Control: public, max-age=31556952, immutable
+/data/dublin/schedule/*
+  Cache-Control: public, max-age=31556952, immutable
+/data/amsterdam/schedule/*
+  Cache-Control: public, max-age=31556952, immutable
+/data/barcelona/geometry/*
+  Cache-Control: public, max-age=31556952, immutable
+/data/barcelona/schedule/*
+  Cache-Control: public, max-age=31556952, immutable

@@ -1,0 +1,6 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "viamap",
+  "compatibility_date": "2026-11-18",
+  "main": "@tanstack/react-start/server-entry"
+}

@@ -1,0 +1,8 @@
+Source: Subterráneos de Buenos Aires (SBASE) / BA Data, Bocas de Subte.
+https://data.buenosaires.gob.ar/dataset/bocas-subte
+Licensed CC BY 2.5 Argentina: https://creativecommons.org/licenses/by/2.5/ar/
+ViaMap reformats the published entrance coordinates, station, line, address
+and direction fields. Network line geometry is from SBASE / BA Data:
+https://data.buenosaires.gob.ar/dataset/subte-estaciones (same licence).
+ViaMap reformats the GeoJSON and assigns display colours. No published
+schedule or live status is used.

@@ -1,0 +1,19 @@
+Amsterdam Schedule Database — filtered and transformed by ViaMap.
+
+Source: openOV / OVapi, using NDOV operator data (GVB and domestic NS).
+Initial bundled snapshot: https://gtfs.ovapi.nl/nl/NL-20261117.gtfs.zip
+Current source link and schedule dates are in ./index.json.
+Provider terms: https://gtfs.ovapi.nl/README
+This project is not affiliated with, nor does it represent, any transit operator.
+
+Per the archive's licenses.txt, general schedule data is CC0 1.0:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Contains route shape data from openOV / OVapi, licensed under the Open
+Database License (ODbL) 1.0. The adapted shape database is available under
+the same licence: https://opendatacommons.org/licenses/odbl/1-0/
+
+Download the adapted database without restrictions: ./index.json contains
+the stop and route index, and lists each geometry filename published under
+./geometry/. Geometry contains simplified and delta-encoded longitude,
+latitude and cumulative distance. This is not a complete timetable.

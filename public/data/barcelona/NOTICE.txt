@@ -1,0 +1,17 @@
+Source: Ajuntament de Barcelona / Open Data BCN, Transports públics.
+https://opendata-ajuntament.barcelona.cat/data/dataset/transports
+Licensed CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+ViaMap filters to metro, FGC, rail and tram entries, removes identical entries
+and formats the location labels. No published schedule or live status is used.
+
+Network overlay: Ferrocarrils de la Generalitat de Catalunya (FGC),
+Rutes GTFS_routes (CC BY 4.0).
+https://dadesobertes.fgc.cat/explore/assets/gtfs_routes/
+ViaMap selects Barcelona-area lines and splits published multipart geometry
+for display. The overlay does not cover the other Barcelona operators.
+
+Timetable source: Renfe Data, Horarios cercanías (CC BY 4.0).
+https://data.renfe.com/dataset/horarios-cercanias
+ViaMap selected trips boardable within its Barcelona study area, reformatted
+stop and timetable information, and simplified the matched route shapes.
+Cancellations or replacement services may differ from published schedules.

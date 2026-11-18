@@ -1,0 +1,8 @@
+Dublin transit data: National Transport Authority (Transport for Ireland).
+Source: https://www.transportforireland.ie/transitData/PT_Data.html
+Licence: Creative Commons Attribution 4.0 International
+https://creativecommons.org/licenses/by/4.0/
+
+ViaMap filtered and transformed the feeds to show boarding points, associated
+routes and simplified measured route shapes for the Dublin study area. The
+index is not a full schedule.

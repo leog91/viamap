@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <title>ViaMap</title>
+  <rect width="40" height="40" rx="11" fill="#6138c8"/>
+  <g fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round">
+    <circle cx="12" cy="26" r="3"/>
+    <circle cx="28" cy="14" r="3"/>
+    <path d="M15 26h10a3 3 0 0 0 0-6H15a3 3 0 0 1 0-6h10"/>
+  </g>
+</svg>
